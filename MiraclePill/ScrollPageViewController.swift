@@ -14,7 +14,6 @@ class ScrollPageViewController: UIViewController {
     var images = [UIImageView]()
     override func viewDidLoad() {
         super.viewDidLoad()
-        
     }
     
     override func viewDidAppear(_ animated: Bool) {
